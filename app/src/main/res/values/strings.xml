@@ -3,4 +3,25 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_activity_amvcall">AMVCall</string>
+    <string name="call_lbl">Llamando a:</string>
+    <string name="placeholder_lbl">Placeholder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="destinos_spinner_array">
+        <item>¿A dónde vamos?</item>
+        <item>Ciudad de México</item>
+        <item>Nueva York</item>
+        <item>Cancún</item>
+        <item>Monterrey</item>
+        <item>Canada</item>
+        <item>Acapulco</item>
+        <item>Aguascalientes</item>
+    </string-array>
+
+    <string name="title_activity_call_bridge">CallBridge</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
